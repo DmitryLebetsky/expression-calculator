@@ -85,7 +85,7 @@ function expressionCalculator(expr) {
     }
     return outputLine[0];
 }
-console.log(expressionCalculator(" 20 - 57 * 12 - (  58 + 84 * 32 / 27  ) "))
+
 module.exports = {
     expressionCalculator
 };
